@@ -1,0 +1,5 @@
+[
+    {rest_collection, ["rest", category], controller_api, [{module, "ginger_rest"}, {method, "collection"}]},
+    {rest_edges, ["rest", id, "edges"], controller_api, [{module, "ginger_rest"}, {method, "edges"}]}
+].
+
